@@ -2,7 +2,7 @@
 
 Crud-Dashboard to perform operations with validation.
 
-Click [here](https://crud-dashboard.herokuapp.com/users) for demo.
+Click [here](https://crud-dashboard.netlify.app) for demo.
 
 This project was bootstrapped with [Create React App](https://crud-dashboard.netlify.app).
 
